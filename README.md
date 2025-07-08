@@ -23,3 +23,6 @@ A Chrome Extension for Slack that refines your message tone—whether you're try
 
 ---
 
+
+👉 [Watch my LinkedIn video](https://www.linkedin.com/posts/sukhad-adhikari_genzifyslack-workhardslackharder-builtthisat3am-activity-7346368658220175360-Sqca?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADoVVSUBuNtYnQH17i7IR9JQ80YnQ7zG3no)
+
