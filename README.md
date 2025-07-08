@@ -21,6 +21,10 @@ A Chrome Extension for Slack that refines your message tone—whether you're try
 - **AI Engine**: OpenAI GPT (via API)
 - **Platform**: Slack (works with Slack Web)
 
+## 🚀 Deployment
+
+- **Backend**: Hosted on [Render](https://render.com) (auto‑deploys on push to `main`)  
+- **Chrome Extension**: Submitted to Chrome Web Store—pending developer approval  
 ---
 
 
